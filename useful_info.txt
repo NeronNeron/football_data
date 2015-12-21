@@ -1,0 +1,7 @@
+http://stackoverflow.com/questions/1773805/how-can-i-parse-a-yaml-file-in-python  -  import from config.yaml
+http://pyyaml.org/wiki/PyYAMLDocumentation
+http://stackoverflow.com/questions/14261614/how-do-i-install-the-yaml-package-for-python - install yaml(sudo pip install pyyaml)
+http://stackoverflow.com/questions/14359557/reading-yaml-in-python   -  disguisting error
+http://stackoverflow.com/questions/6866600/yaml-parsing-and-python  -  loads and dumps
+
+https://www.youtube.com/watch?v=yfkags92KE4  - requests
