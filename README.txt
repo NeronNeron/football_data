@@ -14,9 +14,9 @@ Steps:
 1. Module create_config.py takes data from default.yaml and makes a request. In a result we get list of available campionships and links 
 (league table, teams, fixtures) per each league. This data is stored in newly created config.yaml.
 
-2. Module createDB.py will be responsible for creating DB and tables.
+2. Module make_req.py takes links from config.yaml and make requests to get all needed data. Result will be converted to csv.
 
-3. Module make_req.py will take links from config.yaml and make requests to get all needed data. Result will be converted to csv and pushed to DB.
+3. Module createDB.py will create database and fill it
 
 Later run.py will be added.
 
